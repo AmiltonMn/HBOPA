@@ -41,7 +41,7 @@ export default function Home() {
       <span className="flex justify-center bg-gradient-to-b from-black from-70% to-indigo-950 h-20 text-white"/>
 
       <div className="flex bg-indigo-950 h-20 text-white items-center justify-center">
-        <h1>AAAA</h1>
+        <h1>Tentei arrumar e até que deu certo!</h1>
       </div>
 
 

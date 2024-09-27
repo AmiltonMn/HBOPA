@@ -8,9 +8,13 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      spacing: {
+        "95": "95%"
+      },
       colors: {
         background: "var(--background)",
-        blackTransparent: "var(--blackTspt)"
+        blackTransparent: "var(--blackTspt)",
+        purple: "#070828"
       },
       backgroundImage: {
         capaFundo: "url('/src/assets/miranha.jpg')"
